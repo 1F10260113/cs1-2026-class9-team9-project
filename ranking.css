@@ -1,0 +1,22 @@
+.hero{
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzwJTtJJON6VY7FDYDAdpNRgmgAdH4e5_KYKZeLOJhSDHAJT2kqdIlJNoB8H9HxyZRUb6iaHOIMW08yjJTa0fHyDxZFD_Ctm45judT-BSY7VdSlT2BgAukJCRX_q3VzJTeIQUlv4vjYt0/w1200-h630-p-k-no-nu/snackgashi.png");
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero h1{
+    color: white;
+    font-size: 48px;
+}
+
+h2{
+    background-color: aliceblue;
+}
+ul{
+   background-color: aliceblue; 
+}
